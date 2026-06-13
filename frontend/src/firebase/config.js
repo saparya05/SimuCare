@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAKBcl9d_m4jzeBjkwuhM3Wb7IueCo7GHs",
-  authDomain: "simucare-3dd35.firebaseapp.com",
-  projectId: "simucare-3dd35",
-  storageBucket: "simucare-3dd35.firebasestorage.app",
-  messagingSenderId: "145980605885",
-  appId: "1:145980605885:web:e6fbbb72c420bf6559fed4",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
 };
 
 const app = initializeApp(firebaseConfig);
