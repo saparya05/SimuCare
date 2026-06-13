@@ -287,20 +287,12 @@ npm start
 
 ## 👨‍💻 Authors
 
-### Saparya Jagannath
-📧 saparya05@gmail.com
+- Saparya Jagannath
+- Gauri Sharma
+- Cheshta Arora
+- Yashasvi Saini
 
-### Gauri Sharma
-📧 gaurifsr@gmail.com
-
-### Cheshta Arora
-📧 cheshtaarora786@gmail.com
-
-### Yashasvi Saini
-📧 yashasvisaini355@gmail.com
-
-**Department of Computer Science and Engineering**
-Bharati Vidyapeeth's College of Engineering (Affiliated to GGSIPU, Delhi)
+**Department of Computer Science and Engineering, BVCOE**
 
 ---
 
